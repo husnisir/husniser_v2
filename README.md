@@ -1,20 +1,20 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+jinu_v2+WA+Bot...;Created+by+jinu....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+husniser_v2_v2+WA+Bot...;Created+by+husni....;This+is+a+Bgm+stickerbot...;With+more+features...)](https://git.io/typing-svg)
 
 
 <div align="center">
-  <a href="https://ibb.co/w0Q2QnG"><img src="https://i.ibb.co/88RdR20/Pics-Art-10-01-06-55.jpg""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="""width="170" height="170"/>
   <p align="center">
-<a href="#"><img title="jinusir_v2" src="https://img.shields.io/badge/-jinu-red?&style=for-the-badge"></a>
+<a href="#"><img title="husniser_v2_v2" src="https://img.shields.io/badge/-husniser_v2-red?&style=for-the-badge"></a>
 </p>
   </p>
 <p align="center">
-<a href="https://github.com/jinusir1"><img title="jinu" src="https://img.shields.io/badge/author-jinu001?color=blue&style=for-the-badge&logo=github"></a>
+<a href="https://github.com/husnisir"><img title="husni" src="https://img.shields.io/badge/author-husnisir?color=blue&style=for-the-badge&logo=github"></a>
 
 </div>
 <p align="center">
-Project created by <a href="https://github.com/jinusir1">jinu</a> to make it public
+Project created by <a href="https://github.com/husnisir">husni</a> to make it public
     <br>
        | © |
         Reserved |
@@ -24,33 +24,32 @@ Project created by <a href="https://github.com/jinusir1">jinu</a> to make it pub
 ----
 
   <p align="center">
-  <a href="https://github.com/jinusir1/jinusir_bot ">
-    <img src="https://img.shields.io/github/repo-size/jinusir1/jinusir_bot?color=red&label=Repo%20total%20size&style=flat-square">
+  <a href="https://github.com/husnisir/husniser_v2_v2 ">
+    <img src="https://img.shields.io/github/repo-size/husnisir/husniser_v2_v2?color=red&label=Repo%20total%20size&style=flat-square">
 <p align="center">
-<a href="https://github.com/jinusir1/followers"><img title="Followers" src="https://img.shields.io/github/followers/jinusir1?color=grey&style=plastic"></a>
-<a href="https://github.com/jinusir1/jinusir_bot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/jinusir1/jinusir1?color=grey&style=plastic"></a>
-<a href="https://github.com/jinusir1/jinusir_bot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/jinusir1/jinusir_bot?color=grey&style=plastic"></a>
-<a href="https://github.com/jinusir1/jinusir_bot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/jinusir1/jinusir_bot?label=Watchers&color=grey&style=flat-circle"></a>
+<a href="https://github.com/husnisir/followers"><img title="Followers" src="https://img.shields.io/github/followers/husnisir?color=grey&style=plastic"></a>
+<a href="https://github.com/husnisir/husniser_v2_v2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/husnisir/husniser_v2?color=grey&style=plastic"></a>
+<a href="https://github.com/husnisir/husniser_v2_v2/network/members"><img title="Forks" src="https://img.shields.io/github/forks/husnisir/husniser_v2_v2?color=grey&style=plastic"></a>
+<a href="https://github.com/husnisir/husniser_v2_v2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/husnisir/husniser_v2_v2?label=Watchers&color=grey&style=flat-circle"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-red.svg"</a>
-
+<h3 align="center">Contact Me:</h3>
 
 </p>
     
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://chat.whatsapp.com/JscI6briAP7KmxbZUW8ua7)
+<p align="center">
 
-<h3 align="center">Contact Me:</h3>
-<a href="https://instagram.com/jinu__777?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_husni__jr_?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 
 </p>
 
-<h4 align="center">jinusir movie downloading website:</h4>
+<h4 align="center">Support Video For Deploy Bot:</h4>
 
 <p align="center">
 
-<a href="https://www.jinmovies.ga/?m=1/" target="blank"><img align="center" src="https://i.ibb.co/bvSjPGt/download.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UCllom1TvXieyxcGaanSpMvA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 ```
   
-jinusir_v2 Userbot is Open Source software open to development. 
+husniser_v2_v2 Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -73,7 +72,7 @@ the user is responsible.
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@aju0011/Ajuserv2-Qr)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jinusir1/jinusir_bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/husnisir/husniser_v2)
      </div>
 <br>
 <br >
@@ -87,8 +86,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/jinusir1/jinusir_bot
-$ cd jinusir_bot
+$ git clone https://github.com/husnisir/husniser_v2
+$ cd husniser_v2
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -97,8 +96,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/jinusir1/jinusir_bot
-$ cd jinusir_bot
+$ git clone https://github.com/husnisir/husniser_v2
+$ cd husniser_v2
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -106,10 +105,10 @@ $ node qr.js
 $ node bot.js
 ```
 # 📢 Guide
-Click WA logo to Join Support Group 👇
+Click WA logo to Join whatsapp bot group 👇
     <br>
 <br>
-<a href="https://chat.whatsapp.com/JscI6briAP7KmxbZUW8ua7"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://chat.whatsapp.com/GD9x9u0NLEPI66B1MFzzkj"><img title="join support" src="https://img.shields.io/badge/join_support-afnanplk/pinkymwol?color=black&style=for-the-badge&logo=whatsapp"></a>
   <div align="center">
 
     
@@ -136,9 +135,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![jinu](https://i.ibb.co/VvbtKMq/Pics-Art-10-02-02-56.jpg?size=100)](https://github.com/jinusir1)
+  [![husni](https://github.com/husnisir.png?size=100)](https://github.com/husnisir)
 
-[jinu](https://github.com/jinusir1)  
+[husni](https://github.com/husnisir)  
 Base, Bug Fixed Modifiying  as   public | Bug Fixes, Modules
   </div>
 
