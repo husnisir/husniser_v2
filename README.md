@@ -4,7 +4,7 @@
 
 
 <div align="center">
-  <a href="https://ibb.co/4wyvT9j"><img src="""width="170" height="170"/>
+  <a href="https://ibb.co/4wyvT9j"><img src="https://i.ibb.co/NCcDB9t/Screenshot-2021-10-16-11-14-20-1.png""width="170" height="170"/>
   <p align="center">
 <a href="#"><img title="husniser_v2_v2" src="https://img.shields.io/badge/-husniser_v2-red?&style=for-the-badge"></a>
 </p>
