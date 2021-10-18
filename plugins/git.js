@@ -11,7 +11,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
     
     
    
-  r_text[0] = "content://com.android.chrome.FileProvider/images/screenshot/1634529795446-792676789.png";
+  r_text[0] = "https://i.ibb.co/NCcDB9t/Screenshot-2021-10-16-11-14-20-1.png";
     
     
     var i = Math.floor(1*Math.random())
